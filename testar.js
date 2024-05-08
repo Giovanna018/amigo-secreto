@@ -1,3 +1,4 @@
+
 document.getElementById('spinButton').addEventListener('click', function() {
     var roleta = document.querySelector('.slices');
     
